@@ -4,6 +4,6 @@ do
     dirname=${dir##*/} # get everything after the final "/"
     echo "building ${dirname}..."
     cd ${dirname}
-    go build -v ./...
+    go build -v .
     cd ..
 done
