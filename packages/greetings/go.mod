@@ -1,3 +1,3 @@
-module greetings v0.0.0
+module greetings
 
 go 1.18
