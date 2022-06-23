@@ -1,5 +1,5 @@
-package main
+package learning_golang
 
-func main() {
+func learning_golang() {
 
 }
