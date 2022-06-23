@@ -18,7 +18,7 @@ jobs:
           go-version: 1.18
 
       - name: Build
-        run: sh ./scripts/build.sh
+        run: sh ../scripts/build.sh
 
       - name: Test
-        run: sh ./scripts/test.sh
+        run: sh ../scripts/test.sh
