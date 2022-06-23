@@ -1,3 +1,3 @@
-module github.com/buoyantair/learning-golang/greetings
+module example.com/greetings
 
 go 1.18
