@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/buoyantair/learning-golang/packages/greetings"
+	github.com/buoyantair/learning-golang/packages/greetings v0.0.0
 )
 
 func main() {
